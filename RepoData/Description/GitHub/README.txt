@@ -1,1 +1,2 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌱️🔻️🛡️🌐️ The official source repository for the website of the TrueTorrent project, TrueTorrent is a Torrenting client with a focus on user privacy, and safety. The client does not host files, the user does. This client addresses one of the biggest security concerns in Torrenting. 
+ 
